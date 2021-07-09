@@ -1,0 +1,42 @@
+.main-div {
+	display: flex;
+	flex-direction: column;
+    margin: 0 auto;
+
+
+	.cols {
+		display: flex;
+	
+
+		.col {
+			width: 148px;
+            text-align: left;
+
+			h1 {
+				font-family: DinBold;
+				font-size: 14px;
+				color: #ffdac9;
+			}
+
+			p {
+				font-family: "Gill Sans", "Gill Sans MT", Calibri,
+					"Trebuchet MS", sans-serif;
+				font-size: 13px;
+				color: #767676;
+			}
+		}
+	}
+
+	.copyright {
+        width: 740px;
+        margin: 20px 0 -15px 0;
+      
+		p {
+			font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS",
+				sans-serif;
+			font-size: 13px;
+            text-align: left;
+			color: #767676;
+		}
+	}
+}

@@ -1,0 +1,23 @@
+.recipes-main {
+    max-width: 1366px;
+    height: 838px;
+    margin: 40px auto;
+
+.title {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.recipes {
+	display: flex;
+	padding: 10px;
+	max-width: 1255px;
+	overflow-x: scroll;
+	margin-left: 110px;
+
+	.recipe3 {
+		margin-top: 120px;
+	}
+}
+}

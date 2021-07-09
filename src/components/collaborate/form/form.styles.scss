@@ -1,0 +1,50 @@
+.form-main {
+	display: flex;
+
+    .form {
+        display: flex;
+   
+		label {
+			display: block;
+			font-family: DinBold;
+			font-size: 14px;
+			color: #333333;
+			margin: 20px;
+		}
+
+		input {
+			display: block;
+			background-color: transparent;
+			border: none;
+			border-bottom: 1px solid #707070;
+			font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS",
+				sans-serif;
+			color: rgba(118, 118, 118, 0.3);
+			font-size: 15px;
+			margin-top: 20px;
+			width: 250px;
+            padding-bottom: 10px;
+            padding-left: 0px;
+            text-decoration: none;
+            outline: none;
+
+		}
+
+		input::placeholder {
+			color: rgba($color: #767676, $alpha: 0.3);
+		}
+
+        .submit-button {
+            width: 64px;
+            height: 30px;
+            background-color: #333333;
+            color: #FFDAC9;
+            font-family: DinBold;
+            font-size: 18px;
+            float: right;
+            line-height: 30px;
+            margin-right: 20px;
+            margin-top: 5px;
+        }
+	}
+}

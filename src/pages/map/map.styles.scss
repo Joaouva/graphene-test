@@ -1,0 +1,15 @@
+.maps-main {
+	position: relative;
+	height: 500px;
+	margin: 0 auto;
+	width: 1366px;
+	margin: 0 auto;
+
+	.map-info {
+		position: absolute;
+		z-index: 9;
+		background-color: white;
+		margin-top: 90px;
+		margin-left: 90px;
+	}
+}
