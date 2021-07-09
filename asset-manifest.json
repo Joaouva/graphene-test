@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/graphene-test/static/css/main.19e96959.chunk.css",
+    "main.js": "/graphene-test/static/js/main.0f83ceb6.chunk.js",
+    "main.js.map": "/graphene-test/static/js/main.0f83ceb6.chunk.js.map",
+    "runtime-main.js": "/graphene-test/static/js/runtime-main.9b27e5de.js",
+    "runtime-main.js.map": "/graphene-test/static/js/runtime-main.9b27e5de.js.map",
+    "static/css/2.679831fc.chunk.css": "/graphene-test/static/css/2.679831fc.chunk.css",
+    "static/js/2.0acbf387.chunk.js": "/graphene-test/static/js/2.0acbf387.chunk.js",
+    "static/js/2.0acbf387.chunk.js.map": "/graphene-test/static/js/2.0acbf387.chunk.js.map",
+    "static/js/3.3044e7a1.chunk.js": "/graphene-test/static/js/3.3044e7a1.chunk.js",
+    "static/js/3.3044e7a1.chunk.js.map": "/graphene-test/static/js/3.3044e7a1.chunk.js.map",
+    "index.html": "/graphene-test/index.html",
+    "static/css/2.679831fc.chunk.css.map": "/graphene-test/static/css/2.679831fc.chunk.css.map",
+    "static/css/main.19e96959.chunk.css.map": "/graphene-test/static/css/main.19e96959.chunk.css.map",
+    "static/js/2.0acbf387.chunk.js.LICENSE.txt": "/graphene-test/static/js/2.0acbf387.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/graphene-test/static/media/GillSans.aa3fed75.ttc",
+    "static/media/background_header.c22d78cc.svg": "/graphene-test/static/media/background_header.c22d78cc.svg",
+    "static/media/detail01.c830457a.svg": "/graphene-test/static/media/detail01.c830457a.svg",
+    "static/media/detail02.14fcf0bb.svg": "/graphene-test/static/media/detail02.14fcf0bb.svg",
+    "static/media/detail03.8c855207.svg": "/graphene-test/static/media/detail03.8c855207.svg",
+    "static/media/instagram1.e351f5d0.svg": "/graphene-test/static/media/instagram1.e351f5d0.svg",
+    "static/media/instagram2.524adecf.svg": "/graphene-test/static/media/instagram2.524adecf.svg",
+    "static/media/instagram3.817da9b2.svg": "/graphene-test/static/media/instagram3.817da9b2.svg",
+    "static/media/intagram1_likes.021570ca.svg": "/graphene-test/static/media/intagram1_likes.021570ca.svg",
+    "static/media/recipe1.8a5efefd.svg": "/graphene-test/static/media/recipe1.8a5efefd.svg",
+    "static/media/recipe2.95ae2640.png": "/graphene-test/static/media/recipe2.95ae2640.png",
+    "static/media/recipe3.8d772433.png": "/graphene-test/static/media/recipe3.8d772433.png",
+    "static/media/recipe4.f47fb528.png": "/graphene-test/static/media/recipe4.f47fb528.png",
+    "static/media/recipe5.d81263a4.png": "/graphene-test/static/media/recipe5.d81263a4.png",
+    "static/media/social_icons.bd7a374d.svg": "/graphene-test/static/media/social_icons.bd7a374d.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9b27e5de.js",
+    "static/css/2.679831fc.chunk.css",
+    "static/js/2.0acbf387.chunk.js",
+    "static/css/main.19e96959.chunk.css",
+    "static/js/main.0f83ceb6.chunk.js"
+  ]
+}
