@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/graphene-test/static/css/main.19e96959.chunk.css",
-    "main.js": "/graphene-test/static/js/main.0f83ceb6.chunk.js",
-    "main.js.map": "/graphene-test/static/js/main.0f83ceb6.chunk.js.map",
-    "runtime-main.js": "/graphene-test/static/js/runtime-main.9b27e5de.js",
-    "runtime-main.js.map": "/graphene-test/static/js/runtime-main.9b27e5de.js.map",
+    "main.css": "/graphene-test/static/css/main.3eeaf60c.chunk.css",
+    "main.js": "/graphene-test/static/js/main.1d54617e.chunk.js",
+    "main.js.map": "/graphene-test/static/js/main.1d54617e.chunk.js.map",
+    "runtime-main.js": "/graphene-test/static/js/runtime-main.4a41e26c.js",
+    "runtime-main.js.map": "/graphene-test/static/js/runtime-main.4a41e26c.js.map",
     "static/css/2.679831fc.chunk.css": "/graphene-test/static/css/2.679831fc.chunk.css",
-    "static/js/2.0acbf387.chunk.js": "/graphene-test/static/js/2.0acbf387.chunk.js",
-    "static/js/2.0acbf387.chunk.js.map": "/graphene-test/static/js/2.0acbf387.chunk.js.map",
-    "static/js/3.3044e7a1.chunk.js": "/graphene-test/static/js/3.3044e7a1.chunk.js",
-    "static/js/3.3044e7a1.chunk.js.map": "/graphene-test/static/js/3.3044e7a1.chunk.js.map",
+    "static/js/2.a4f4b794.chunk.js": "/graphene-test/static/js/2.a4f4b794.chunk.js",
+    "static/js/2.a4f4b794.chunk.js.map": "/graphene-test/static/js/2.a4f4b794.chunk.js.map",
+    "static/js/3.7cfe6705.chunk.js": "/graphene-test/static/js/3.7cfe6705.chunk.js",
+    "static/js/3.7cfe6705.chunk.js.map": "/graphene-test/static/js/3.7cfe6705.chunk.js.map",
     "index.html": "/graphene-test/index.html",
     "static/css/2.679831fc.chunk.css.map": "/graphene-test/static/css/2.679831fc.chunk.css.map",
-    "static/css/main.19e96959.chunk.css.map": "/graphene-test/static/css/main.19e96959.chunk.css.map",
-    "static/js/2.0acbf387.chunk.js.LICENSE.txt": "/graphene-test/static/js/2.0acbf387.chunk.js.LICENSE.txt",
+    "static/css/main.3eeaf60c.chunk.css.map": "/graphene-test/static/css/main.3eeaf60c.chunk.css.map",
+    "static/js/2.a4f4b794.chunk.js.LICENSE.txt": "/graphene-test/static/js/2.a4f4b794.chunk.js.LICENSE.txt",
     "static/media/index.css": "/graphene-test/static/media/GillSans.aa3fed75.ttc",
     "static/media/background_header.c22d78cc.svg": "/graphene-test/static/media/background_header.c22d78cc.svg",
     "static/media/detail01.c830457a.svg": "/graphene-test/static/media/detail01.c830457a.svg",
@@ -31,10 +31,10 @@
     "static/media/social_icons.bd7a374d.svg": "/graphene-test/static/media/social_icons.bd7a374d.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.9b27e5de.js",
+    "static/js/runtime-main.4a41e26c.js",
     "static/css/2.679831fc.chunk.css",
-    "static/js/2.0acbf387.chunk.js",
-    "static/css/main.19e96959.chunk.css",
-    "static/js/main.0f83ceb6.chunk.js"
+    "static/js/2.a4f4b794.chunk.js",
+    "static/css/main.3eeaf60c.chunk.css",
+    "static/js/main.1d54617e.chunk.js"
   ]
 }
