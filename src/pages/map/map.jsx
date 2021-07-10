@@ -80,7 +80,7 @@ class MapSection extends React.Component {
 
 	render() {
 		return (
-            <div className="maps-main">
+            <div className="maps-main" id="location">
                 <div className="map-info">
                     <Location/>
                 </div>

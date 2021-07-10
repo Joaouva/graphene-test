@@ -5,10 +5,10 @@ import "./community.styles.scss"
 import { Item1, Item2, Item3 } from "../../components/community/instagram-items/items"
 import Text from "../../components/community/text/text"
 
-const Community = () => {
+function Community () {
     
     return (
-		<div className="community-main">
+		<div className="community-main" id="community">
 			<div className="top-div">
 				<Text />
 				<Item1 />

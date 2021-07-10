@@ -1,5 +1,5 @@
 import React from "react";
-import Fade from "react-reveal/Fade";
+import Reveal from "react-reveal/Reveal";
 
 
 import "./items.style.scss"
@@ -13,10 +13,10 @@ import Background1 from "../../../assets/images/detail01.svg"
 import Background2 from "../../../assets/images/detail02.svg"
 import Background3 from "../../../assets/images/detail03.svg"
 
-const Item1 = () => {
+function Item1 () {
 	
 	return (
-		<Fade bottom>
+		<Reveal bottom>
 			<div className="item-main">
 				<img
 					className="background1"
@@ -51,14 +51,14 @@ const Item1 = () => {
 					</div>
 				</div>
 			</div>
-		</Fade>
+		</Reveal>
 	);
 
 }
 
 const Item2 = () => {
 	return (
-		<Fade bottom>
+		<Reveal bottom>
 			<div className="item-main">
 				<img
 					className="background3"
@@ -87,13 +87,13 @@ const Item2 = () => {
 					/>
 				</div>
 			</div>
-		</Fade>
+		</Reveal>
 	);
 };
 
 const Item3 = () => {
 	return (
-		<Fade bottom>
+		<Reveal bottom>
 			<div className="item-main">
 				<div className="text-frame">
 					<div className="item-text">
@@ -115,7 +115,7 @@ const Item3 = () => {
 					/>
 				</div>
 			</div>
-		</Fade>
+		</Reveal>
 	);
 };
 

@@ -1,11 +1,17 @@
 import React from "react";
 
 import "./form.styles.scss"
+import Background from "../../../assets/images/bg-detail.png"
 
 function Form() {
     
     return (
 		<div className="form-main">
+			<img
+				className="background"
+				src={Background}
+				alt="dots background detail"
+			/>
 			<form className="form">
 				<div className="form-left">
 					<label>
@@ -60,7 +66,11 @@ function Form() {
 							placeholder="Select"
 						/>
 					</label>
-					<input className="submit-button" type="submit" value="SEND"  />
+					<input
+						className="submit-button"
+						type="submit"
+						value="SEND"
+					/>
 				</div>
 			</form>
 		</div>

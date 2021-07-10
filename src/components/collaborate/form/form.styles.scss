@@ -1,9 +1,16 @@
 .form-main {
 	display: flex;
 
-    .form {
-        display: flex;
-   
+	.background {
+		position: absolute;
+		z-index: 1;
+		margin-top: -88px;
+		margin-left: 148px;
+	}
+
+	.form {
+		display: flex;
+
 		label {
 			display: block;
 			font-family: DinBold;
@@ -23,28 +30,27 @@
 			font-size: 15px;
 			margin-top: 20px;
 			width: 250px;
-            padding-bottom: 10px;
-            padding-left: 0px;
-            text-decoration: none;
-            outline: none;
-
+			padding-bottom: 10px;
+			padding-left: 0px;
+			text-decoration: none;
+			outline: none;
 		}
 
 		input::placeholder {
 			color: rgba($color: #767676, $alpha: 0.3);
 		}
 
-        .submit-button {
-            width: 64px;
-            height: 30px;
-            background-color: #333333;
-            color: #FFDAC9;
-            font-family: DinBold;
-            font-size: 18px;
-            float: right;
-            line-height: 30px;
-            margin-right: 20px;
-            margin-top: 5px;
-        }
+		.submit-button {
+			width: 64px;
+			height: 30px;
+			background-color: #333333;
+			color: #ffdac9;
+			font-family: DinBold;
+			font-size: 18px;
+			float: right;
+			line-height: 30px;
+			margin-right: 20px;
+			margin-top: 5px;
+		}
 	}
 }

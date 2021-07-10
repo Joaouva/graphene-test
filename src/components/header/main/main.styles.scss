@@ -44,11 +44,6 @@
 		}
 	}
 
-	.image-div {
-		position: absolute;
-		z-index: 9;
-	}
-
 	.text-div {
 		position: absolute;
 		top: 60%;
@@ -77,6 +72,24 @@
 			font-size: 35px;
 			color: white;
 			margin: -20px;
+		}
+	}
+
+	.header-button {
+		transform: rotate(-90deg);
+		font-family: DinBold;
+		font-size: 18px;
+		color: #333333;
+		margin-top: 30%;
+		margin-right: -18px;
+		position: absolute;
+
+		button {
+			line-height: 30px;
+			width: 100px;
+			height: 30px;
+			background-color: #FFFFFF;
+			border: none;
 		}
 	}
 }

@@ -5,7 +5,7 @@ import Nav from "../../components/header/nav/nav";
 
 import "./header.styles.scss";
 
-const Header = () => {
+function Header () {
 	return (
 		<div className="header-main">
 			<Nav />

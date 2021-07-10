@@ -8,7 +8,7 @@ import "./footer.styles.scss"
 function Footer () {
     
     return (
-		<div className="footer-main">
+		<div className="footer-main" id="contact">
 			<div className="left-section">
 				<LeftSection />
             </div>

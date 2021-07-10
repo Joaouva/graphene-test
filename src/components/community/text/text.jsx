@@ -2,7 +2,7 @@ import React from "react";
 
 import "./text.styles.scss"
 
-const Text = () => {
+function Text ()  {
     return (
 		<div className="text-main">
 			<h1>MEET OUR COMMUNITY</h1>
